@@ -10,7 +10,9 @@
 * Population Data: https://sedac.ciesin.columbia.edu/data/collection/popdynamics/maps/services 
 * GDP Data: https://tntcat.iiasa.ac.at/SspDb/dsd?Action=htmlpage&page=10
 
-# Extra Information
+# Publication citation
+Keys, Patrick W., Elizabeth A. Barnes, Noah S. Diffenbaugh, James W. Hurrell and Curtis M. Bell, 2022: Potential for perceived failure of stratospheric aerosol injection deployment, PNAS, https://doi.org/10.1073/pnas.2210036119.
+
 
 ## License
 This project is licensed under an MIT license.
