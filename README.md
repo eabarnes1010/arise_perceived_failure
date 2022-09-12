@@ -1,4 +1,5 @@
 # Analysis code for _"Potential for perceived failure of stratospheric aerosol injection deployment"_
+[![DOI](https://zenodo.org/badge/535791417.svg)](https://zenodo.org/badge/latestdoi/535791417)
 * __paper authors__: Patrick W. Keys, Elizabeth A. Barnes, Noah S. Diffenbaugh, James W. Hurrell, and Curtis M. Bell
 * __code author__: Elizabeth A. Barnes
 * __date__: September 12, 2022
